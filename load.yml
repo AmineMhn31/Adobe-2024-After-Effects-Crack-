@@ -1,0 +1,18 @@
+syntax_version: "2024-10-10"
+meta:
+  labels:
+  - "activator"
+  refs:
+    branches:
+    - "refs/heads/develop" 
+    - "refs/heads/main"
+    - "refs/heads/master"
+source_code:
+  excludes: []
+  includes: []
+  encoding: "UTF-8"
+  line_ending: "UNKNOWN"
+languages: []
+
+- name: Git Version
+  uses: codacy/git-version@2.4.0
