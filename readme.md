@@ -39,3 +39,4 @@ adobe-premium-access
 vfx-software-unlock
 adobe-motion-tools
 after-effects-crack-2024
+after-effects
